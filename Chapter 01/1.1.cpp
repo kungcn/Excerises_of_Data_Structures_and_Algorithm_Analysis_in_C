@@ -18,4 +18,5 @@ int main(void) {
         cout << array[i] << " ";
     cout << endl;
     cout << array[k - 1] << endl;
+    return 0;
 }
